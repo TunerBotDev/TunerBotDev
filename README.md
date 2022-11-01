@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TunerBotDev
-- 👀 I’m interested in Node.js
-- 🌱 I’m currently learning Discord.js
-- 💞️ I’m looking to collaborate on Discord Bots
-- 📫 How to reach me JazzZ#9022
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Front End CSS
+- 💞️ I’m looking to collaborate on Making Games
+- 📫 How to reach me krishsrivastava2006@yahoo.com
 
 <!---
 TunerBotDev/TunerBotDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
